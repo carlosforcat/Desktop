@@ -1,0 +1,32 @@
+p{
+    color: rgb(44, 136, 72);
+
+}
+
+#Consequatur{color: rgb(111, 0, 255);}
+
+
+
+#box1{
+    width: 350px;
+    height: 300px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: green;
+    text-align: center;
+    background-color: black;
+    border: red; right: 5px;
+
+margin: auto;
+padding: 20px;
+
+}
+
+#box2{
+    width: 350;
+    height: 300;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: red;
+    color: white;
+
+}

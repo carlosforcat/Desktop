@@ -1,0 +1,43 @@
+h3{
+
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+
+
+}
+
+ul{
+
+    color: brown;
+    size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.carta{
+
+
+color: red;
+font-weight: bold;
+
+}
+
+#agrego{
+
+    width: 350px;
+    height: 250px;
+    background-color: aquamarine;
+    padding: 20px;
+    border: 20px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+
+}
+
+#agrego2{
+
+width: 350px;
+height: 250px;
+background-color: gray;
+
+}
